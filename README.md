@@ -20,7 +20,7 @@ I specialize in **SQL, Python, Power BI, Advanced Excel, and Data Visualization*
 
 ## 🌐 Live Portfolio
 
-### 🚀 [Click Here to Explore My Portfolio](https://priyadharshini-data-analyst.github.io/data-analyst-portfolio/)
+### 🚀 [Click Here to Explore My Portfolio](🚀 Live Portfolio:https://priyadharshini-data-analyst.github.io/data-analyst-portfolio/)
 
 Explore my projects, technical skills, certifications, and professional journey through my personal portfolio website.
 
