@@ -2,40 +2,52 @@
 
 ### Transforming Raw Data into Actionable Business Insights
 
-Welcome to my Data Analyst Portfolio! This repository showcases my hands-on projects, technical skills, analytical thinking, and ability to transform complex datasets into meaningful business insights through data cleaning, analysis, visualization, and dashboard development.
+![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
+![SQL](https://img.shields.io/badge/SQL-Database%20Management-orange)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-brightgreen)
+![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Website-purple)
 
-I am an aspiring **Data Analyst and B.Sc. Computer Science graduate**, passionate about solving real-world business problems using **SQL, Python, Power BI, Advanced Excel, and Tableau**.
+Welcome to my professional **Data Analyst Portfolio!**
 
-My focus is on delivering data-driven insights that support informed business decisions.
+I am **Priyadharshini V C**, an aspiring Data Analyst and B.Sc. Computer Science graduate passionate about transforming complex datasets into meaningful business insights.
+
+This portfolio showcases my practical experience in **SQL, Python, Power BI, Microsoft Excel, and Data Visualization**, along with projects demonstrating analytical thinking, problem-solving, and business intelligence skills.
+
+My goal is to leverage data analytics to identify trends, improve business performance, and support data-driven decision-making.
 
 ---
 
 ## 🌐 Live Portfolio
 
-🚀 **[View My Live Data Analyst Portfolio](https://priyadharshini-data-analyst.github.io/data-analyst-portfolio/)**
+🚀 **[Explore My Data Analyst Portfolio](https://priyadharshini-data-analyst.github.io/data-analyst-portfolio/)**
 
-💻 **[Explore My GitHub Profile](https://github.com/priyadharshini-data-analyst)**
+💻 **[GitHub Profile](https://github.com/priyadharshini-data-analyst)**
+
+📂 **[Portfolio Repository](https://github.com/priyadharshini-data-analyst/data-analyst-portfolio)**
 
 ---
 
 ## 👩‍💻 About Me
 
-I am Priyadharshini V C, a Computer Science graduate with a strong interest in Data Analytics and Business Intelligence.
+- 🎓 B.Sc. Computer Science Graduate
+- 📊 Aspiring Data Analyst
+- 📍 Chennai, Tamil Nadu, India
+- 💻 Skilled in SQL, Python, Power BI, and Advanced Excel
+- 📈 Interested in Business Intelligence and Data Visualization
+- 🔍 Passionate about Data Cleaning, Exploratory Data Analysis, and Business Analytics
+- 🚀 Actively seeking entry-level Data Analyst opportunities
 
-I am currently developing my analytical and technical expertise through practical training and hands-on projects.
-
-I enjoy working with datasets, identifying trends, solving business problems, and presenting insights through interactive dashboards.
-
-**Career Objective:** To begin my career as a Data Analyst, apply my technical knowledge to real-world business challenges, and contribute to data-driven decision-making.
+I enjoy analyzing real-world datasets, identifying business trends, developing interactive dashboards, and presenting insights that support strategic decision-making.
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Category | Technologies & Skills |
+| Category | Skills & Technologies |
 |---|---|
 | Programming | Python |
-| Database Management | SQL, MySQL, SQL Server |
+| Databases | SQL, MySQL, SQL Server |
 | Data Visualization | Power BI, Tableau |
 | Spreadsheet Analytics | Microsoft Excel, Advanced Excel |
 | Python Libraries | Pandas, NumPy, Matplotlib |
@@ -44,6 +56,7 @@ I enjoy working with datasets, identifying trends, solving business problems, an
 | SQL Analytics | Joins, Subqueries, CTEs, Window Functions |
 | Data Analysis | Data Cleaning, EDA, Trend Analysis |
 | Version Control | Git, GitHub |
+| Web Development | HTML, CSS |
 
 ---
 
@@ -53,25 +66,25 @@ I enjoy working with datasets, identifying trends, solving business problems, an
 
 **Tools:** SQL Server, Power BI, DAX
 
-**Objective:**
+**Project Overview:**
 
-Analyze pizza sales transactions to understand business performance, customer purchasing patterns, and product profitability.
+Analyzed pizza sales transactions to evaluate business performance, identify sales trends, and understand customer purchasing behavior.
 
 **Key Analysis:**
 - Total Revenue and Total Orders
 - Average Order Value
 - Total Pizzas Sold
 - Daily and Monthly Sales Trends
-- Sales Performance by Pizza Category
 - Best-Selling and Worst-Selling Pizzas
-- Revenue Contribution by Pizza Size
-- Interactive Business Intelligence Dashboard
+- Revenue Analysis by Pizza Category
+- Sales Performance by Pizza Size
+- Interactive Power BI Dashboard
 
 **Skills Demonstrated:**
 
-`SQL` `Power BI` `DAX` `Data Visualization` `Business Analytics`
+`SQL` `Power BI` `DAX` `Business Analytics` `Data Visualization`
 
-🔗 [View Project Repository](https://github.com/priyadharshini-data-analyst/Pizza-Sales-Analysis-SQL-PowerBI)
+🔗 **[View Pizza Sales Analysis Project](https://github.com/priyadharshini-data-analyst/Pizza-Sales-Analysis-SQL-PowerBI)**
 
 ---
 
@@ -79,9 +92,9 @@ Analyze pizza sales transactions to understand business performance, customer pu
 
 **Tools:** Power BI, Power Query, DAX, Python
 
-**Objective:**
+**Project Overview:**
 
-Analyze supply chain operations, inventory management, supplier performance, and logistics efficiency to support operational decision-making.
+Analyzed supply chain operations to understand inventory management, supplier performance, logistics efficiency, and overall business profitability.
 
 **Key Analysis:**
 - Total Sales and Profit
@@ -97,17 +110,15 @@ Analyze supply chain operations, inventory management, supplier performance, and
 
 `Power BI` `DAX` `Power Query` `Data Modeling` `Supply Chain Analytics`
 
-🔗 [View Project Repository](https://github.com/priyadharshini-data-analyst/Supply-Chain-and-Logistics-Analytics-Dashboard)
-
 ---
 
 ### 🛒 3. E-Commerce Sales Performance Analysis
 
 **Tools:** Python, Pandas, Microsoft Excel
 
-**Objective:**
+**Project Overview:**
 
-Analyze e-commerce transactions to identify sales trends, high-performing product categories, and regional business performance.
+Analyzed e-commerce sales data to identify revenue trends, high-performing product categories, and regional sales patterns.
 
 **Key Analysis:**
 - Data Cleaning and Preprocessing
@@ -117,7 +128,7 @@ Analyze e-commerce transactions to identify sales trends, high-performing produc
 - Product Category Performance
 - Seasonal Sales Patterns
 - Excel PivotTables and PivotCharts
-- Interactive KPI Dashboard
+- KPI Dashboard Development
 
 **Skills Demonstrated:**
 
@@ -129,25 +140,19 @@ Analyze e-commerce transactions to identify sales trends, high-performing produc
 
 **Tools:** MySQL, SQL
 
-**Objective:**
+**Project Overview:**
 
-Analyze relational business datasets to identify customer purchasing behavior, product performance, and revenue trends.
-
-**Key Analysis:**
-- Customer Purchasing Patterns
-- Revenue Analysis
-- Product Performance
-- Category-Level Sales
-- Customer Segmentation
-- Business KPI Calculation
+Performed SQL-based business analysis to explore customer purchasing patterns, product performance, and revenue trends.
 
 **SQL Concepts Applied:**
 - INNER JOIN and LEFT JOIN
 - GROUP BY and HAVING
 - Aggregate Functions
 - Subqueries
+- Common Table Expressions
 - Window Functions
 - Ranking Functions
+- Business KPI Calculations
 
 **Skills Demonstrated:**
 
@@ -155,7 +160,7 @@ Analyze relational business datasets to identify customer purchasing behavior, p
 
 ---
 
-## 🏆 Certifications & Professional Development
+## 🏆 Certifications
 
 ### 🎓 30 Days MasterClass in Data Analytics
 
@@ -163,47 +168,47 @@ Analyze relational business datasets to identify customer purchasing behavior, p
 
 **Duration:** September 03 – October 12, 2026
 
-Successfully completed a Data Analytics MasterClass as part of my continuous learning and professional development.
+Successfully completed a Data Analytics MasterClass focused on strengthening analytical knowledge and practical data analytics skills.
 
 ### 📊 Behind the Screens: Netflix Data Analytics with Power BI
 
-**Issued by:** NoviTech R&D Pvt. Ltd.
+**Issued by:** NoviTech R&D Private Limited
 
 **Duration:** September 09 – September 12, 2026
 
 Successfully completed a four-day workshop focused on Netflix Data Analytics using Microsoft Power BI.
 
-📜 Both certificates are showcased in my portfolio website.
+📜 **Certification details are showcased in my portfolio website.**
 
 ---
 
 ## 🔍 My Data Analytics Workflow
 
-My analytical approach follows a structured process:
+My analytical approach follows six essential stages:
 
 **1. Business Understanding**
 
-Identify business objectives, key questions, and relevant performance indicators.
+Identify business objectives, analytical requirements, and key performance indicators.
 
 **2. Data Collection**
 
-Work with structured datasets from CSV files, Excel spreadsheets, and relational databases.
+Collect structured datasets from Excel files, CSV files, and relational databases.
 
 **3. Data Cleaning**
 
-Handle missing values, duplicates, inconsistent formats, and incorrect data types.
+Handle missing values, remove duplicates, correct data types, and improve data quality.
 
 **4. Exploratory Data Analysis**
 
-Investigate patterns, relationships, trends, and business performance.
+Investigate trends, relationships, patterns, and business performance using SQL and Python.
 
 **5. Data Visualization**
 
-Develop dashboards, charts, KPIs, and interactive reports using Power BI and Excel.
+Develop dashboards, charts, and interactive reports using Power BI and Excel.
 
 **6. Business Insights**
 
-Translate analytical findings into meaningful insights that support decision-making.
+Translate analytical findings into actionable recommendations that support business decisions.
 
 ---
 
@@ -211,50 +216,103 @@ Translate analytical findings into meaningful insights that support decision-mak
 
 - Data Cleaning and Transformation
 - Exploratory Data Analysis
-- SQL Query Optimization Fundamentals
-- Data Visualization and Storytelling
+- SQL Querying and Database Management
 - Business Intelligence Reporting
-- Dashboard Development
-- KPI Monitoring
-- Analytical Problem-Solving
-- Business Performance Analysis
+- Interactive Dashboard Development
+- Data Visualization and Storytelling
+- KPI Monitoring and Performance Analysis
+- Business Problem-Solving
+- Trend Analysis
+- Analytical Thinking
 
 ---
 
-## 💼 Career Interests
+## 💻 Portfolio Website
 
-I am actively seeking opportunities in:
+This portfolio website was developed to professionally present my technical skills, practical projects, certifications, and career achievements.
+
+### Website Features
+
+- Modern and Professional User Interface
+- Responsive Portfolio Layout
+- About Me Section
+- Technical Skills Showcase
+- Featured Data Analytics Projects
+- Certifications Section
+- Resume Access
+- GitHub and Professional Profile Links
+- Contact Information
+
+### Technologies Used
+
+- HTML5
+- CSS3
+- Git
+- GitHub
+- GitHub Pages
+
+---
+
+## 🚀 Run This Portfolio Locally
+
+**Step 1: Clone the repository**
+
+```bash
+git clone https://github.com/priyadharshini-data-analyst/data-analyst-portfolio.git
+```
+
+**Step 2: Navigate to the project folder**
+
+```bash
+cd data-analyst-portfolio
+```
+
+**Step 3: Open the portfolio**
+
+Open the portfolio HTML file in your preferred web browser.
+
+No additional installation is required for this static website.
+
+---
+
+## 💼 Career Opportunities
+
+I am actively seeking opportunities in the following roles:
 
 - Data Analyst
 - Junior Data Analyst
 - Business Intelligence Analyst
 - Reporting Analyst
-- Entry-Level Analytics Roles
+- Entry-Level Data Analytics Roles
 
-I am eager to apply my analytical skills, learn from experienced professionals, and contribute to business growth through data-driven insights.
+I am eager to contribute my analytical skills, technical knowledge, and problem-solving abilities to organizations that value data-driven decision-making.
 
 ---
 
 ## 📬 Connect With Me
 
-**Name:** Priyadharshini V C
+**👩‍💻 Name:** Priyadharshini V C
 
-**Role:** Aspiring Data Analyst
+**💼 Role:** Aspiring Data Analyst
 
-**Location:** Chennai, India
+**📍 Location:** Chennai, Tamil Nadu, India
 
-**GitHub:** [priyadharshini-data-analyst](https://github.com/priyadharshini-data-analyst)
+**🔗 GitHub:** [priyadharshini-data-analyst](https://github.com/priyadharshini-data-analyst)
 
-**Portfolio:** [View Portfolio](https://priyadharshini-data-analyst.github.io/data-analyst-portfolio/)
+**🌐 Portfolio:** [View My Portfolio](https://priyadharshini-data-analyst.github.io/data-analyst-portfolio/)
+
+**💼 LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/priyadharshini-v-c-6a0037407/)
 
 ---
 
-### ⭐ Thank You for Visiting!
+## ⭐ Thank You for Visiting!
 
 Thank you for exploring my Data Analyst Portfolio.
 
-I am continuously improving my technical skills, working on real-world analytics projects, and expanding my knowledge of business intelligence and data analytics.
+I am continuously improving my technical expertise, building real-world analytics projects, and expanding my knowledge of data analytics and business intelligence.
 
-**Open to entry-level Data Analyst opportunities and professional connections.**
+I welcome opportunities to connect, collaborate, and contribute to meaningful data-driven projects.
 
-*Turning Data into Insights | Insights into Decisions*
+### 📊 Turning Data into Insights | Insights into Decisions
+
+⭐ If you find my projects interesting, consider starring this repository!
