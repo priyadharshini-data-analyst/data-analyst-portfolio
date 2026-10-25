@@ -1,162 +1,136 @@
 # 📊 Priyadharshini V C | Data Analyst Portfolio
 
-### Transforming Raw Data into Actionable Business Insights
+### Transforming Data into Meaningful Business Insights
 
-![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
-![SQL](https://img.shields.io/badge/SQL-Database%20Management-orange)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-brightgreen)
-![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Website-purple)
+![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Analyst-blueviolet)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
+![Python](https://img.shields.io/badge/Python-Analytics-yellow)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346)
 
-Welcome to my professional **Data Analyst Portfolio!**
+Welcome to my **Data Analyst Portfolio!**
 
-I am **Priyadharshini V C**, an aspiring Data Analyst and B.Sc. Computer Science graduate passionate about transforming complex datasets into meaningful business insights.
+I'm **Priyadharshini V C**, an aspiring Data Analyst and B.Sc. Computer Science graduate passionate about transforming raw data into actionable insights.
 
-This portfolio showcases my practical experience in **SQL, Python, Power BI, Microsoft Excel, and Data Visualization**, along with projects demonstrating analytical thinking, problem-solving, and business intelligence skills.
+This portfolio highlights my technical expertise, real-world analytics projects, professional certifications, and ability to solve business problems using data.
 
-My goal is to leverage data analytics to identify trends, improve business performance, and support data-driven decision-making.
+I specialize in **SQL, Python, Power BI, Advanced Excel, and Data Visualization**.
 
 ---
 
 ## 🌐 Live Portfolio
 
-🚀 **[Explore My Data Analyst Portfolio](https://priyadharshini-data-analyst.github.io/data-analyst-portfolio/)**
+### 🚀 [Click Here to Explore My Portfolio](https://priyadharshini-data-analyst.github.io/data-analyst-portfolio/)
 
-💻 **[GitHub Profile](https://github.com/priyadharshini-data-analyst)**
-
-📂 **[Portfolio Repository](https://github.com/priyadharshini-data-analyst/data-analyst-portfolio)**
+Explore my projects, technical skills, certifications, and professional journey through my personal portfolio website.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Sc. Computer Science Graduate
-- 📊 Aspiring Data Analyst
-- 📍 Chennai, Tamil Nadu, India
-- 💻 Skilled in SQL, Python, Power BI, and Advanced Excel
-- 📈 Interested in Business Intelligence and Data Visualization
-- 🔍 Passionate about Data Cleaning, Exploratory Data Analysis, and Business Analytics
-- 🚀 Actively seeking entry-level Data Analyst opportunities
+- 🎓 **Education:** B.Sc. Computer Science
+- 💼 **Career Goal:** Data Analyst
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 📊 **Specialization:** Data Analytics & Business Intelligence
+- 💻 **Technical Skills:** SQL, Python, Power BI, Excel, Tableau
+- 📈 **Interests:** Data Visualization, Dashboard Development, Business Analytics
+- 🎯 **Current Focus:** Building practical analytics projects and strengthening business intelligence skills
 
-I enjoy analyzing real-world datasets, identifying business trends, developing interactive dashboards, and presenting insights that support strategic decision-making.
+I enjoy working with complex datasets, discovering hidden patterns, building interactive dashboards, and delivering insights that support data-driven decision-making.
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Category | Skills & Technologies |
+| Category | Technologies |
 |---|---|
 | Programming | Python |
 | Databases | SQL, MySQL, SQL Server |
-| Data Visualization | Power BI, Tableau |
+| Business Intelligence | Power BI, Tableau |
 | Spreadsheet Analytics | Microsoft Excel, Advanced Excel |
 | Python Libraries | Pandas, NumPy, Matplotlib |
 | Data Transformation | Power Query |
-| Business Intelligence | DAX, KPI Development, Dashboard Design |
-| SQL Analytics | Joins, Subqueries, CTEs, Window Functions |
-| Data Analysis | Data Cleaning, EDA, Trend Analysis |
+| Data Modeling | DAX, Data Relationships |
+| Data Analytics | Data Cleaning, EDA, KPI Analysis |
+| SQL Techniques | Joins, Subqueries, CTEs, Window Functions |
 | Version Control | Git, GitHub |
-| Web Development | HTML, CSS |
+| Web Technologies | HTML5, CSS3 |
 
 ---
 
-## 📂 Featured Data Analytics Projects
+## 📂 Featured Projects
 
-### 🍕 1. Pizza Sales Analysis | SQL + Power BI
+### 🍕 01. Pizza Sales Analysis | SQL + Power BI
 
 **Tools:** SQL Server, Power BI, DAX
 
-**Project Overview:**
+Analyzed pizza sales data to identify revenue trends, customer purchasing patterns, and business performance.
 
-Analyzed pizza sales transactions to evaluate business performance, identify sales trends, and understand customer purchasing behavior.
+**Key Highlights:**
+- Analyzed Total Revenue, Total Orders, and Average Order Value.
+- Identified best-selling and worst-selling pizzas.
+- Evaluated daily and monthly sales trends.
+- Analyzed revenue contribution by pizza category and size.
+- Developed interactive Power BI dashboards.
+- Generated business insights to support decision-making.
 
-**Key Analysis:**
-- Total Revenue and Total Orders
-- Average Order Value
-- Total Pizzas Sold
-- Daily and Monthly Sales Trends
-- Best-Selling and Worst-Selling Pizzas
-- Revenue Analysis by Pizza Category
-- Sales Performance by Pizza Size
-- Interactive Power BI Dashboard
+**Skills:** `SQL` `Power BI` `DAX` `KPI Analysis` `Data Visualization`
 
-**Skills Demonstrated:**
-
-`SQL` `Power BI` `DAX` `Business Analytics` `Data Visualization`
-
-🔗 **[View Pizza Sales Analysis Project](https://github.com/priyadharshini-data-analyst/Pizza-Sales-Analysis-SQL-PowerBI)**
+🔗 **[View Project](https://github.com/priyadharshini-data-analyst/Pizza-Sales-Analysis-SQL-PowerBI)**
 
 ---
 
-### 🚚 2. Supply Chain & Logistics Analytics Dashboard
+### 🚚 02. Supply Chain & Logistics Analytics
 
 **Tools:** Power BI, Power Query, DAX, Python
 
-**Project Overview:**
+Developed analytics focused on supply chain performance, inventory management, and logistics operations.
 
-Analyzed supply chain operations to understand inventory management, supplier performance, logistics efficiency, and overall business profitability.
+**Key Highlights:**
+- Analyzed sales and profitability.
+- Evaluated supplier performance.
+- Monitored inventory and stock levels.
+- Analyzed shipment and delivery performance.
+- Identified operational trends.
+- Created interactive business intelligence visualizations.
 
-**Key Analysis:**
-- Total Sales and Profit
-- Profit Margin Analysis
-- Supplier Performance
-- Inventory and Stock Analysis
-- Shipment Performance
-- Delivery Delays
-- Customer Revenue Analysis
-- Average Lead Time
-
-**Skills Demonstrated:**
-
-`Power BI` `DAX` `Power Query` `Data Modeling` `Supply Chain Analytics`
+**Skills:** `Power BI` `DAX` `Power Query` `Data Modeling`
 
 ---
 
-### 🛒 3. E-Commerce Sales Performance Analysis
+### 🛒 03. E-Commerce Sales Performance Analysis
 
 **Tools:** Python, Pandas, Microsoft Excel
 
-**Project Overview:**
+Analyzed e-commerce sales transactions to identify business trends and understand product performance.
 
-Analyzed e-commerce sales data to identify revenue trends, high-performing product categories, and regional sales patterns.
+**Key Highlights:**
+- Performed data cleaning and preprocessing.
+- Handled missing values and duplicate records.
+- Conducted exploratory data analysis.
+- Analyzed product category performance.
+- Identified regional sales trends.
+- Created charts and KPI reports.
 
-**Key Analysis:**
-- Data Cleaning and Preprocessing
-- Missing Value and Duplicate Handling
-- Sales Trend Analysis
-- Regional Sales Performance
-- Product Category Performance
-- Seasonal Sales Patterns
-- Excel PivotTables and PivotCharts
-- KPI Dashboard Development
-
-**Skills Demonstrated:**
-
-`Python` `Pandas` `Excel` `Data Cleaning` `Exploratory Data Analysis`
+**Skills:** `Python` `Pandas` `Excel` `EDA` `Data Cleaning`
 
 ---
 
-### 🗄️ 4. SQL Business Data Analysis
+### 🗄️ 04. SQL Business Data Analysis
 
 **Tools:** MySQL, SQL
 
-**Project Overview:**
+Performed SQL-based analysis to understand customer behavior, sales performance, and business metrics.
 
-Performed SQL-based business analysis to explore customer purchasing patterns, product performance, and revenue trends.
+**Key Highlights:**
+- Wrote SQL queries for business reporting.
+- Applied joins and aggregate functions.
+- Used subqueries and window functions.
+- Analyzed revenue and product performance.
+- Calculated business KPIs.
+- Extracted meaningful insights from relational datasets.
 
-**SQL Concepts Applied:**
-- INNER JOIN and LEFT JOIN
-- GROUP BY and HAVING
-- Aggregate Functions
-- Subqueries
-- Common Table Expressions
-- Window Functions
-- Ranking Functions
-- Business KPI Calculations
-
-**Skills Demonstrated:**
-
-`MySQL` `SQL Queries` `Joins` `Window Functions` `Business Analytics`
+**Skills:** `SQL` `MySQL` `Joins` `CTEs` `Window Functions`
 
 ---
 
@@ -164,120 +138,103 @@ Performed SQL-based business analysis to explore customer purchasing patterns, p
 
 ### 🎓 30 Days MasterClass in Data Analytics
 
-**Issued by:** NoviTech R&D Private Limited
+**Organization:** NoviTech R&D Private Limited
 
 **Duration:** September 03 – October 12, 2026
 
-Successfully completed a Data Analytics MasterClass focused on strengthening analytical knowledge and practical data analytics skills.
+Completed professional training focused on developing data analytics knowledge and analytical problem-solving skills.
 
-### 📊 Behind the Screens: Netflix Data Analytics with Power BI
+### 📊 Netflix Data Analytics with Power BI
 
-**Issued by:** NoviTech R&D Private Limited
+**Organization:** NoviTech R&D Private Limited
 
 **Duration:** September 09 – September 12, 2026
 
-Successfully completed a four-day workshop focused on Netflix Data Analytics using Microsoft Power BI.
+Completed a workshop focused on analyzing Netflix data and understanding data visualization techniques using Power BI.
 
-📜 **Certification details are showcased in my portfolio website.**
-
----
-
-## 🔍 My Data Analytics Workflow
-
-My analytical approach follows six essential stages:
-
-**1. Business Understanding**
-
-Identify business objectives, analytical requirements, and key performance indicators.
-
-**2. Data Collection**
-
-Collect structured datasets from Excel files, CSV files, and relational databases.
-
-**3. Data Cleaning**
-
-Handle missing values, remove duplicates, correct data types, and improve data quality.
-
-**4. Exploratory Data Analysis**
-
-Investigate trends, relationships, patterns, and business performance using SQL and Python.
-
-**5. Data Visualization**
-
-Develop dashboards, charts, and interactive reports using Power BI and Excel.
-
-**6. Business Insights**
-
-Translate analytical findings into actionable recommendations that support business decisions.
+📜 **View my certifications on my portfolio website.**
 
 ---
 
-## 💡 Core Competencies
+## 🔍 My Data Analytics Process
 
-- Data Cleaning and Transformation
-- Exploratory Data Analysis
-- SQL Querying and Database Management
-- Business Intelligence Reporting
-- Interactive Dashboard Development
-- Data Visualization and Storytelling
-- KPI Monitoring and Performance Analysis
-- Business Problem-Solving
-- Trend Analysis
-- Analytical Thinking
+```text
+Business Problem
+      ↓
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Exploratory Data Analysis
+      ↓
+Data Transformation
+      ↓
+Dashboard Development
+      ↓
+Business Insights
+      ↓
+Data-Driven Decisions
+```
+
+My approach focuses on understanding business requirements, ensuring data quality, analyzing patterns, and communicating insights through effective visualizations.
 
 ---
 
 ## 💻 Portfolio Website
 
-This portfolio website was developed to professionally present my technical skills, practical projects, certifications, and career achievements.
+This portfolio was designed to present my professional profile, analytical skills, and project experience in a modern and accessible format.
 
-### Website Features
+### ✨ Website Features
 
-- Modern and Professional User Interface
-- Responsive Portfolio Layout
+- Modern and Professional Design
+- Responsive Layout
+- Interactive Navigation
 - About Me Section
 - Technical Skills Showcase
-- Featured Data Analytics Projects
+- Featured Analytics Projects
 - Certifications Section
 - Resume Access
-- GitHub and Professional Profile Links
-- Contact Information
+- GitHub and LinkedIn Integration
+- Contact Section
 
-### Technologies Used
+### ⚙️ Built With
 
 - HTML5
 - CSS3
-- Git
-- GitHub
+- JavaScript
 - GitHub Pages
 
 ---
 
-## 🚀 Run This Portfolio Locally
+## 🚀 Getting Started
 
-**Step 1: Clone the repository**
+To run this portfolio locally:
+
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/priyadharshini-data-analyst/data-analyst-portfolio.git
 ```
 
-**Step 2: Navigate to the project folder**
+**2. Open the project directory**
 
 ```bash
 cd data-analyst-portfolio
 ```
 
-**Step 3: Open the portfolio**
+**3. Launch the website**
 
-Open the portfolio HTML file in your preferred web browser.
+Open the HTML portfolio file in your browser.
 
-No additional installation is required for this static website.
+For GitHub Pages deployment, rename the main HTML file to `index.html`.
 
 ---
 
-## 💼 Career Opportunities
+## 🎯 Career Objective
 
-I am actively seeking opportunities in the following roles:
+To begin my career as a Data Analyst, where I can apply my technical expertise in SQL, Python, Power BI, and Excel to analyze complex datasets, develop business intelligence solutions, and contribute to data-driven business decisions.
+
+### 💼 Open to Opportunities
 
 - Data Analyst
 - Junior Data Analyst
@@ -285,34 +242,30 @@ I am actively seeking opportunities in the following roles:
 - Reporting Analyst
 - Entry-Level Data Analytics Roles
 
-I am eager to contribute my analytical skills, technical knowledge, and problem-solving abilities to organizations that value data-driven decision-making.
-
 ---
 
 ## 📬 Connect With Me
 
 **👩‍💻 Name:** Priyadharshini V C
 
-**💼 Role:** Aspiring Data Analyst
-
 **📍 Location:** Chennai, Tamil Nadu, India
 
-**🔗 GitHub:** [priyadharshini-data-analyst](https://github.com/priyadharshini-data-analyst)
+**💻 GitHub:** [priyadharshini-data-analyst](https://github.com/priyadharshini-data-analyst)
 
 **🌐 Portfolio:** [View My Portfolio](https://priyadharshini-data-analyst.github.io/data-analyst-portfolio/)
 
-**💼 LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/priyadharshini-v-c-6a0037407/)
+**💼 LinkedIn:** [Connect With Me](https://www.linkedin.com/in/priyadharshini-v-c-6a0037407/)
 
 ---
 
 ## ⭐ Thank You for Visiting!
 
-Thank you for exploring my Data Analyst Portfolio.
+Thank you for exploring my Data Analyst Portfolio!
 
-I am continuously improving my technical expertise, building real-world analytics projects, and expanding my knowledge of data analytics and business intelligence.
+I am continuously improving my analytical skills, exploring new technologies, and building projects that demonstrate my ability to solve real-world business problems.
 
-I welcome opportunities to connect, collaborate, and contribute to meaningful data-driven projects.
+Feel free to explore my repositories and connect with me for professional opportunities.
 
 ### 📊 Turning Data into Insights | Insights into Decisions
 
-⭐ If you find my projects interesting, consider starring this repository!
+⭐ **If you find my portfolio interesting, consider starring this repository!**
